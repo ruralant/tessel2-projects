@@ -1,0 +1,23 @@
+{
+  "name": "tessel-j5",
+  "version": "0.0.0",
+  "description": "Tessel project",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "johnny-five": "^0.11.3",
+    "justgage": "^1.2.2",
+    "socket.io": "^2.0.3",
+    "tessel-io": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "www.github.com/tessel/t2-cli",
+  "keywords": [
+    "Tessel"
+  ],
+  "license": "MIT",
+  "readme": "A bare bones Tessel 2 blinky script."
+}

@@ -1,0 +1,11 @@
+.gauge {
+    display: block;
+    float: left;
+}
+
+#thermometer,
+#barometer,
+#hygrometer,
+#altimeter {
+    width: 25%
+}
