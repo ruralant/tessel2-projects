@@ -7,7 +7,7 @@
     "express": "^4.15.3",
     "johnny-five": "^0.11.3",
     "justgage": "^1.2.2",
-    "socket.io": "^2.0.3",
+    "socket.io": "^4.2.0",
     "tessel-io": "^1.0.0"
   },
   "devDependencies": {},
